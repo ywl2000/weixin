@@ -1,0 +1,9 @@
+/* 字体库 */
+@font-face {
+	font-family: 'medium';
+	src: url('../font/PingFang Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'regular';
+	src: url('../font/PingFang Regular.ttf') format('truetype');
+}
